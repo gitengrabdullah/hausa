@@ -3,7 +3,7 @@ const videos = [
     id: 1,
     title: "Funny Hausa Comedy",
     thumbnail:
-      "https://picsum.photos/400/250?random=1",
+      "/one.mp4",
   },
 
   {
